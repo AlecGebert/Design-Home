@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Design-Home/static/css/main.ac668f51.chunk.css",
+    "main.js": "/Design-Home/static/js/main.68cd215e.chunk.js",
+    "main.js.map": "/Design-Home/static/js/main.68cd215e.chunk.js.map",
+    "runtime-main.js": "/Design-Home/static/js/runtime-main.ca6c95c5.js",
+    "runtime-main.js.map": "/Design-Home/static/js/runtime-main.ca6c95c5.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/Design-Home/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.9ad2a1d9.chunk.js": "/Design-Home/static/js/2.9ad2a1d9.chunk.js",
+    "static/js/2.9ad2a1d9.chunk.js.map": "/Design-Home/static/js/2.9ad2a1d9.chunk.js.map",
+    "static/js/3.8a151823.chunk.js": "/Design-Home/static/js/3.8a151823.chunk.js",
+    "static/js/3.8a151823.chunk.js.map": "/Design-Home/static/js/3.8a151823.chunk.js.map",
+    "index.html": "/Design-Home/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/Design-Home/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.ac668f51.chunk.css.map": "/Design-Home/static/css/main.ac668f51.chunk.css.map",
+    "static/js/2.9ad2a1d9.chunk.js.LICENSE.txt": "/Design-Home/static/js/2.9ad2a1d9.chunk.js.LICENSE.txt",
+    "static/media/Bathroom.eca15d33.jpg": "/Design-Home/static/media/Bathroom.eca15d33.jpg",
+    "static/media/Bedroom.f2375ddb.jpg": "/Design-Home/static/media/Bedroom.f2375ddb.jpg",
+    "static/media/Childroom.6e261a74.jpg": "/Design-Home/static/media/Childroom.6e261a74.jpg",
+    "static/media/Guestroom.4ef50bc8.jpg": "/Design-Home/static/media/Guestroom.4ef50bc8.jpg",
+    "static/media/Tableroom.d00afb93.jpg": "/Design-Home/static/media/Tableroom.d00afb93.jpg",
+    "static/media/design.758dc627.jpg": "/Design-Home/static/media/design.758dc627.jpg",
+    "static/media/furniture.f0181b5c.jpg": "/Design-Home/static/media/furniture.f0181b5c.jpg",
+    "static/media/inter1.9b7c6bfb.jpg": "/Design-Home/static/media/inter1.9b7c6bfb.jpg",
+    "static/media/inter2.42c0da6d.jpg": "/Design-Home/static/media/inter2.42c0da6d.jpg",
+    "static/media/inter3.64e5a3fd.jpg": "/Design-Home/static/media/inter3.64e5a3fd.jpg",
+    "static/media/logotype.5b23c00b.png": "/Design-Home/static/media/logotype.5b23c00b.png",
+    "static/media/team.658bfdd8.jpg": "/Design-Home/static/media/team.658bfdd8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca6c95c5.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.9ad2a1d9.chunk.js",
+    "static/css/main.ac668f51.chunk.css",
+    "static/js/main.68cd215e.chunk.js"
+  ]
+}
