@@ -8,7 +8,7 @@ import {
   FormControl
 } from "react-bootstrap";
 import logo from "../pictures/logotype.png";
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import { HashRouter as Router, Switch, Route } from "react-router-dom";
 
 import Home from "../Pages/Home";
 import About from "../Pages/About";
